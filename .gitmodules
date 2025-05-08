@@ -1,0 +1,36 @@
+[submodule "DataNova-multiuse"]
+	path = DataNova-multiuse
+	url = https://github.com/mearashadowfax/DataNova
+[submodule "astrofront-astro"]
+	path = astrofront-astro
+	url = https://github.com/themefisher/astrofront-astro
+[submodule "astro-aria"]
+	path = astro-aria
+	url = https://github.com/ccbikai/astro-aria
+[submodule "hub-itsteddydev"]
+	path = hub-itsteddydev
+	url = https://github.com/itsteddydev/hub-itsteddydev
+[submodule "astrowind"]
+	path = astrowind
+	url = https://github.com/onwidget/astrowind
+[submodule "Astrogency"]
+	path = Astrogency
+	url = https://github.com/unfolding-io/Astrogency
+[submodule "linkt-tree"]
+	path = linkt-tree
+	url = https://github.com/Shramkoweb/linkt-tree
+[submodule "blog-template"]
+	path = blog-template
+	url = https://github.com/danielcgilibert/blog-template
+[submodule "astro-zen"]
+	path = astro-zen
+	url = https://github.com/immois/astro-zen
+[submodule "Linktree"]
+	path = Linktree
+	url = https://github.com/no-arbitrage/Linktree
+[submodule "treelink"]
+	path = treelink
+	url = https://github.com/trevortylerlee/treelink
+[submodule "astroplate"]
+	path = astroplate
+	url = https://github.com/zeon-studio/astroplate
